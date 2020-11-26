@@ -211,6 +211,7 @@ void mouseFunction(int btn, int state, int x, int y) {
 	if (btn == 3) {
 		R -= 0.1;
 	}
+
 	if (btn == 4) {
 		R += 0.1;
 	}
